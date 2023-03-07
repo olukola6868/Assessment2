@@ -1,0 +1,16 @@
+C:\Users\new user\Desktop\ASSESSMENT  2\METHOD\NUMBER 1\obj\Debug\net5.0\NUMBER 1.csproj.AssemblyReference.cache
+C:\Users\new user\Desktop\ASSESSMENT  2\METHOD\NUMBER 1\obj\Debug\net5.0\NUMBER 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\new user\Desktop\ASSESSMENT  2\METHOD\NUMBER 1\obj\Debug\net5.0\NUMBER 1.AssemblyInfoInputs.cache
+C:\Users\new user\Desktop\ASSESSMENT  2\METHOD\NUMBER 1\obj\Debug\net5.0\NUMBER 1.AssemblyInfo.cs
+C:\Users\new user\Desktop\ASSESSMENT  2\METHOD\NUMBER 1\obj\Debug\net5.0\NUMBER 1.csproj.CoreCompileInputs.cache
+C:\Users\new user\Desktop\ASSESSMENT  2\METHOD\NUMBER 1\bin\Debug\net5.0\NUMBER 1.exe
+C:\Users\new user\Desktop\ASSESSMENT  2\METHOD\NUMBER 1\bin\Debug\net5.0\NUMBER 1.deps.json
+C:\Users\new user\Desktop\ASSESSMENT  2\METHOD\NUMBER 1\bin\Debug\net5.0\NUMBER 1.runtimeconfig.json
+C:\Users\new user\Desktop\ASSESSMENT  2\METHOD\NUMBER 1\bin\Debug\net5.0\NUMBER 1.runtimeconfig.dev.json
+C:\Users\new user\Desktop\ASSESSMENT  2\METHOD\NUMBER 1\bin\Debug\net5.0\NUMBER 1.dll
+C:\Users\new user\Desktop\ASSESSMENT  2\METHOD\NUMBER 1\bin\Debug\net5.0\ref\NUMBER 1.dll
+C:\Users\new user\Desktop\ASSESSMENT  2\METHOD\NUMBER 1\bin\Debug\net5.0\NUMBER 1.pdb
+C:\Users\new user\Desktop\ASSESSMENT  2\METHOD\NUMBER 1\obj\Debug\net5.0\NUMBER 1.dll
+C:\Users\new user\Desktop\ASSESSMENT  2\METHOD\NUMBER 1\obj\Debug\net5.0\ref\NUMBER 1.dll
+C:\Users\new user\Desktop\ASSESSMENT  2\METHOD\NUMBER 1\obj\Debug\net5.0\NUMBER 1.pdb
+C:\Users\new user\Desktop\ASSESSMENT  2\METHOD\NUMBER 1\obj\Debug\net5.0\NUMBER 1.genruntimeconfig.cache

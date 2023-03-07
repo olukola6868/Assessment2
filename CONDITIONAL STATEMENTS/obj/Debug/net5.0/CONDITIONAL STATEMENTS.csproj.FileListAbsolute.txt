@@ -1,0 +1,16 @@
+C:\Users\new user\Desktop\ASSESSMENT  2\CONDITIONAL STATEMENTS\bin\Debug\net5.0\CONDITIONAL STATEMENTS.exe
+C:\Users\new user\Desktop\ASSESSMENT  2\CONDITIONAL STATEMENTS\bin\Debug\net5.0\CONDITIONAL STATEMENTS.deps.json
+C:\Users\new user\Desktop\ASSESSMENT  2\CONDITIONAL STATEMENTS\bin\Debug\net5.0\CONDITIONAL STATEMENTS.runtimeconfig.json
+C:\Users\new user\Desktop\ASSESSMENT  2\CONDITIONAL STATEMENTS\bin\Debug\net5.0\CONDITIONAL STATEMENTS.runtimeconfig.dev.json
+C:\Users\new user\Desktop\ASSESSMENT  2\CONDITIONAL STATEMENTS\bin\Debug\net5.0\CONDITIONAL STATEMENTS.dll
+C:\Users\new user\Desktop\ASSESSMENT  2\CONDITIONAL STATEMENTS\bin\Debug\net5.0\ref\CONDITIONAL STATEMENTS.dll
+C:\Users\new user\Desktop\ASSESSMENT  2\CONDITIONAL STATEMENTS\bin\Debug\net5.0\CONDITIONAL STATEMENTS.pdb
+C:\Users\new user\Desktop\ASSESSMENT  2\CONDITIONAL STATEMENTS\obj\Debug\net5.0\CONDITIONAL STATEMENTS.csproj.AssemblyReference.cache
+C:\Users\new user\Desktop\ASSESSMENT  2\CONDITIONAL STATEMENTS\obj\Debug\net5.0\CONDITIONAL STATEMENTS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\new user\Desktop\ASSESSMENT  2\CONDITIONAL STATEMENTS\obj\Debug\net5.0\CONDITIONAL STATEMENTS.AssemblyInfoInputs.cache
+C:\Users\new user\Desktop\ASSESSMENT  2\CONDITIONAL STATEMENTS\obj\Debug\net5.0\CONDITIONAL STATEMENTS.AssemblyInfo.cs
+C:\Users\new user\Desktop\ASSESSMENT  2\CONDITIONAL STATEMENTS\obj\Debug\net5.0\CONDITIONAL STATEMENTS.csproj.CoreCompileInputs.cache
+C:\Users\new user\Desktop\ASSESSMENT  2\CONDITIONAL STATEMENTS\obj\Debug\net5.0\CONDITIONAL STATEMENTS.dll
+C:\Users\new user\Desktop\ASSESSMENT  2\CONDITIONAL STATEMENTS\obj\Debug\net5.0\ref\CONDITIONAL STATEMENTS.dll
+C:\Users\new user\Desktop\ASSESSMENT  2\CONDITIONAL STATEMENTS\obj\Debug\net5.0\CONDITIONAL STATEMENTS.pdb
+C:\Users\new user\Desktop\ASSESSMENT  2\CONDITIONAL STATEMENTS\obj\Debug\net5.0\CONDITIONAL STATEMENTS.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\new user\Desktop\memo\harny\New folder (2)\bin\Debug\net5.0\New folder (2).exe
+C:\Users\new user\Desktop\memo\harny\New folder (2)\bin\Debug\net5.0\New folder (2).deps.json
+C:\Users\new user\Desktop\memo\harny\New folder (2)\bin\Debug\net5.0\New folder (2).runtimeconfig.json
+C:\Users\new user\Desktop\memo\harny\New folder (2)\bin\Debug\net5.0\New folder (2).runtimeconfig.dev.json
+C:\Users\new user\Desktop\memo\harny\New folder (2)\bin\Debug\net5.0\New folder (2).dll
+C:\Users\new user\Desktop\memo\harny\New folder (2)\bin\Debug\net5.0\ref\New folder (2).dll
+C:\Users\new user\Desktop\memo\harny\New folder (2)\bin\Debug\net5.0\New folder (2).pdb
+C:\Users\new user\Desktop\memo\harny\New folder (2)\obj\Debug\net5.0\New folder (2).csproj.AssemblyReference.cache
+C:\Users\new user\Desktop\memo\harny\New folder (2)\obj\Debug\net5.0\New folder (2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\new user\Desktop\memo\harny\New folder (2)\obj\Debug\net5.0\New folder (2).AssemblyInfoInputs.cache
+C:\Users\new user\Desktop\memo\harny\New folder (2)\obj\Debug\net5.0\New folder (2).AssemblyInfo.cs
+C:\Users\new user\Desktop\memo\harny\New folder (2)\obj\Debug\net5.0\New folder (2).csproj.CoreCompileInputs.cache
+C:\Users\new user\Desktop\memo\harny\New folder (2)\obj\Debug\net5.0\New folder (2).dll
+C:\Users\new user\Desktop\memo\harny\New folder (2)\obj\Debug\net5.0\ref\New folder (2).dll
+C:\Users\new user\Desktop\memo\harny\New folder (2)\obj\Debug\net5.0\New folder (2).pdb
+C:\Users\new user\Desktop\memo\harny\New folder (2)\obj\Debug\net5.0\New folder (2).genruntimeconfig.cache
